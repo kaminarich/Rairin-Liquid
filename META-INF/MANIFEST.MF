@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 8.0.2
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: Qtt038jvkzP05zaSBITuctlchLU=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: install.sh
+SHA1-Digest: yvXJATIHkBwN8CPiI3d2bgHWrVA=
+
+Name: module.prop
+SHA1-Digest: KUHy38AVo6DNMnHiwsYzn1MtkuQ=
+
+Name: system/product/overlay/treble-overlay-xos-bg.apk
+SHA1-Digest: C0Jr0U7v/bHPAB0/I8f6ny2qZZ8=
+

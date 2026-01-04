@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA1-Digest-Manifest: 2vtQGlTPwErwGxRO0XuXqpCE63M=
+X-Android-APK-Signed: 2,3
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 48vhVGeUh/rYWRApA7wpQtDWjXA=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: install.sh
+SHA1-Digest: 06QBKcXCs+YCDx3PiTTRj4v6OKE=
+
+Name: module.prop
+SHA1-Digest: +A2NQzfEL59tl1nzRGYgqw/7Ksw=
+
+Name: system/product/overlay/treble-overlay-xos-bg.apk
+SHA1-Digest: JbABasNlnoYNbiLNJY62d/VBfOY=
+
